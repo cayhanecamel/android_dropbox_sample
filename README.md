@@ -1,4 +1,4 @@
-Dropbos Sample
+Dropbox Sample
 =============
 
 Dropboxで配布されているSampleをAndroidStudioで動くようにしてみました。
